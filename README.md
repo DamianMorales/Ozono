@@ -1,2 +1,2 @@
 # Ozono
-Sistema de Riego IoT utilizando componentes open source.
+Coming soon... IoT Irrigation System using open source components.
